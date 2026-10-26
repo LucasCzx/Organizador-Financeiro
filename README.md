@@ -81,4 +81,3 @@ GitHub: [@LucasCzx](https://github.com/LucasCzx)
 ## 📄 Direitos autorais
 
 Copyright © 2026 Lucas Carlos. Todos os direitos reservados.
-É proibida a cópia, modificação ou distribuição deste projeto sem autorização do autor.
